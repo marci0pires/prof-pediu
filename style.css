@@ -71,10 +71,11 @@ header ul li a{
 
 .banner{
     height: 100vh;
-    background-image: url(imagens/banner.jpg);
+    background-image: url(imagens/aurora-boreal-finlândia.jpg);
     background-position: 100% 0;
     background-repeat: repeat;
     background-size: cover;
+    color: black;
 
     display: flex;
     align-items: center;
@@ -86,5 +87,5 @@ header ul li a{
 }
 
 .banner h1 span{
-    color: #FFAE81;
+    color: #190af0;
 }
